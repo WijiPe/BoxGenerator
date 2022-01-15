@@ -1,0 +1,7 @@
+.box{
+    width: 1000px;
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
